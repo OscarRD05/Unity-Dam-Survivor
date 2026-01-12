@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0c9ea8bd62840584f8fc6639920eb917
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 134214
+  packageName: Elemental Orbs
+  packageVersion: 1.0
+  assetPath: Assets/ElementalOrbs/Demo/Materials/GroundMaterial.mat
+  uploadId: 330552

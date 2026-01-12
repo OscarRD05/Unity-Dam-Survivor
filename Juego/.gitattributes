@@ -1,0 +1,10 @@
+* text=auto
+
+*.cs text eol=lf
+*.shader text eol=lf
+*.cginc text eol=lf
+
+*.asset -text
+*.meta -text
+*.prefab -text
+*.unity -text

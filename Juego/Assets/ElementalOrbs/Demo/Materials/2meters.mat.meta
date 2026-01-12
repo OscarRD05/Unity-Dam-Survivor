@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c761dfd9fa2b76e4289c0e0568d6d23e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 134214
+  packageName: Elemental Orbs
+  packageVersion: 1.0
+  assetPath: Assets/ElementalOrbs/Demo/Materials/2meters.mat
+  uploadId: 330552

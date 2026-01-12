@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 97e759805f596d44c90e6b827e3e4430
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 134214
+  packageName: Elemental Orbs
+  packageVersion: 1.0
+  assetPath: Assets/ElementalOrbs/Demo/Scripts/CameraBehaviour.cs
+  uploadId: 330552

@@ -1,0 +1,30 @@
+# --- Carpetas grandes de Unity que NO se suben ---
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+
+# Visual Studio / Rider / VSCode
+.vs/
+.vscode/
+*.user
+*.suo
+*.csproj
+*.pidb
+*.sln*
+*.unityproj
+*.tmp
+*.bak
+*.svd
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Unity cache de packages
+[Pp]ackages/[Cc]ache/
+[Pp]ackageCache/

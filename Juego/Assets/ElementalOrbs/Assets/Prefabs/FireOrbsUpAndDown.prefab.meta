@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6e2c7403f7653424499039132443b540
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 134214
+  packageName: Elemental Orbs
+  packageVersion: 1.0
+  assetPath: Assets/ElementalOrbs/Assets/Prefabs/FireOrbsUpAndDown.prefab
+  uploadId: 330552

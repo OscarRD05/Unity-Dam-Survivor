@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6158b9a610797774e905729fca19b1ed
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 134214
+  packageName: Elemental Orbs
+  packageVersion: 1.0
+  assetPath: Assets/ElementalOrbs/Assets/Prefabs/LightningOrbsAwayAndReturn.prefab
+  uploadId: 330552

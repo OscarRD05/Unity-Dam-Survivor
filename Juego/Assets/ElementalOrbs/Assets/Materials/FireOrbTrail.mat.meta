@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 54e2cf8db7d2f6e409a29cff7fd6e04c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 134214
+  packageName: Elemental Orbs
+  packageVersion: 1.0
+  assetPath: Assets/ElementalOrbs/Assets/Materials/FireOrbTrail.mat
+  uploadId: 330552

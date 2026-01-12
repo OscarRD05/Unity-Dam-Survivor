@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d1f5a7290d370d04985dfbc78bd8c9ad
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 134214
+  packageName: Elemental Orbs
+  packageVersion: 1.0
+  assetPath: Assets/ElementalOrbs/Assets/Prefabs/FrostOrbsSpiral.prefab
+  uploadId: 330552
